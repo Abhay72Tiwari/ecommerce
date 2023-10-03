@@ -22,7 +22,7 @@ const HomeSectionCarosel = ({ sectionName }) => {
     const items = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1].map((i) => <HomeSectionCard />);
     return (
         <div className="relative px-4 lg:px-8">
-            <div className="relative p-5 border" onClick={handlegoCart}>
+            <div className="relative p-5 border" >
                 <h2 className="text-2xl font-extrabold text-gray-800 py-5" > {sectionName}</h2>
                 <AliceCarousel
                     items={items}
