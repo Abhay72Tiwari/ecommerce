@@ -107,14 +107,11 @@ const Footer = () => {
                         Made with love by Me.
                     </Typography>
                     <Typography variant="body2" component="p" align="center">
-                        Icons made by{'  '}
-                        <Link href="https://www.freepik.com" color="inherit" underline="always">
-                            Freepik {'  '}
+                        Contact me{'  '}
+                        <Link href="https://www.linkedin.com/in/abhay-tiwari-39b416222/" color="inherit" underline="always">
+                            Linkdin- Abhay Tiwari {'   '}
                         </Link>
-                        from{' '}
-                        <Link href="https://www.flaticon.com" color="inherit" underline="always">
-                            www.flaticon.com
-                        </Link>
+                        {' '}
 
                     </Typography>
                 </Grid>

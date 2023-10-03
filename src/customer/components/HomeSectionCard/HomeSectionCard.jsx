@@ -13,7 +13,7 @@ const HomeSectionCard = () => {
             </div>
             <div className='p-4'>
                 <h3 className='text-lg font-medium text-gray-900'>Notifier</h3>
-                <p className='mt-2 text-sm text-gray-500'>men solid pure cotten straight kurta</p>
+                <p className='mt-2 text-sm text-gray-500'>Child solid pure cotten straight shirt paint </p>
             </div>
 
         </div>

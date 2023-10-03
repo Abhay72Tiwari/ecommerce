@@ -7,11 +7,11 @@ export default function HomePage() {
         <div className=''>
             <MainCarosel />
             <div className='py-10 flex flex-col justify-center space-y-10 px-5 lg:px10'>
-                <HomeSectionCarosel  sectionName={"Mens Kurta"} />
-                <HomeSectionCarosel />
-                <HomeSectionCarosel />
-                <HomeSectionCarosel />
-                <HomeSectionCarosel />
+                <HomeSectionCarosel sectionName={"Demo Data"} />
+                <HomeSectionCarosel sectionName={"Demo Data"} />
+                <HomeSectionCarosel sectionName={"Demo Data"} />
+                <HomeSectionCarosel sectionName={"Demo Data"} />
+                <HomeSectionCarosel sectionName={"Demo Data"} />
 
             </div>
         </div>
